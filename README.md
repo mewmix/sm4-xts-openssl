@@ -13,8 +13,8 @@ make
 ```
 
 # Usage
-##SM4(128)
+## SM4(128)
 Usage: ./sm4_xts <-e|-d> <SM4_key> <IV> <input_text_or_ciphertext>
-##AES(256)
+## AES(256)
 Usage: ./xts_debug <-e|-d> <AES_key> <IV> <input_text_or_ciphertext>
 
